@@ -1,4 +1,5 @@
 Project Zomboid - Madax's Melee Weapons Pack
 
- I. Added customer distribution code
-II. Removed recipes
+ Added customer distribution code
+ 
+ Removed recipes
