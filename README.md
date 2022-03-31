@@ -1,5 +1,5 @@
 Project Zomboid - Madax's Melee Weapons Pack
 
- Added customer distribution code
+ Added custom distribution code
  
  Removed recipes
