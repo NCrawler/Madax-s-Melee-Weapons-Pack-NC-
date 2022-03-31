@@ -1,4 +1,4 @@
-Project Zomboid - Madax's Melee Weapons Pack
+[b]Project Zomboid - Madax's Melee Weapons Pack[/b]
 
 Added custom distribution code
  
