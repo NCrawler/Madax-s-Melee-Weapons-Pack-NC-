@@ -6,12 +6,15 @@
 -- Spawn Location Table
 -----------------------------------------------------------------------
 local weaponspawnlocs = {
-	all = {inventorymale=1,inventoryfemale=1,metal_shelves=5},
+	all = {inventorymale=2,inventoryfemale=2,metal_shelves=5},
 	armyhanger = {metal_shelves=10,counter=10,locker=10},
 	armystorage = {locker=10,metal_shelves=10},
 	armysurplus = {shelves=10,metal_shelves=10},
 	bedroom = {wardrobe=1,sidetable=1},
-	garagestorage = {bin=3,crate=3},
+	camping = {counter=5,shelves=5},
+	campingstorage = {crate=5},
+	closet = {crate=2,metal_shelves=2},
+	garagestorage = {crate=3},
 	gunstore = {counter=2,displaycase=2,locker=2,metal_shelves=2},
 	gunstorestorage = {all=2},
 	hunting = {locker=4,metal_shelves=4,other=4},
